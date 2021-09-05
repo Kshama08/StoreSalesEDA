@@ -5,6 +5,6 @@ These markdowns precede prominent holidays. The weeks including these holidays a
 
 The Task:
 	
-Predict the department-wide sales for each store for the following year
-Model the effects of markdowns on holiday weeks
-Provide recommended actions based on the insights drawn, with prioritization placed on the largest business impact
+Predict the department-wide sales for each store for the following year.
+Model the effects of markdowns on holiday weeks.
+Provide recommended actions based on the insights drawn, with prioritization placed on the largest business impact.
